@@ -19,4 +19,4 @@
     1. Robotics for Industrial Automation 
     2. Artificial Intelligence and Expert Systems in Automation 
     3. Product Design & Development
-7. [Applied Materials](https://www.appliedmaterials.com/) > [Metal Deposition Product] 
+7. [Applied Materials](https://www.appliedmaterials.com/) > [Semiconductor Metal Deposition Product Design] "Design of Physical Vapor Deposition (PVD) chamber components" > Patent 1-6 
