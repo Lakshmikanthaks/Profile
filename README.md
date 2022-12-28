@@ -21,3 +21,20 @@
     3. Product Design & Development
 7. [Applied Materials](https://www.appliedmaterials.com/) > Smart Wafer & [Load Port](https://www.ebay.com/itm/304517552227) > Patent #7 
 8. [Applied Materials](https://www.appliedmaterials.com/) > [Semiconductor MDP](https://www.appliedmaterials.com/in/en/semiconductor/semiconductor-products.html) "Design of Physical Vapor Deposition (PVD) chamber components" > Patent #1-6   
+
+## Education Qualification 
+
+Degree		    : Ph.D – Part time (Under progress) 
+College		    : The National Institute of Engineering, Mysore 570 008
+Year of Passing	: 2023 (Estimated) 
+Area			: Asthma Drug Delivery Quantification & Decision Support System under Dr. N.V. Raghavendra & Dr. B.K. Sridhara
+
+Degree		    :  M. Tech. in Product Design & Manufacturing
+College		    :  The National Institute of Engineering, Mysore 570 008. 
+Year of Passing	:  2005 
+Project			:  Application of Conjoint Analysis in New Product Development under Dr. B.K.Sridhara
+
+Degree		    :  B.E in Mechanical Engineering
+College		    :  Ballari Institute of Technology & Management, Bellary 583 104. 
+Year of Passing	:  2002
+Project			:  Servo Valve Test Rig in Jindal Vijaynagar Steels Ltd. under Late Ravishankar
