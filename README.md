@@ -11,4 +11,4 @@
 
 ## Product Details 
 1. [Dot Matrix Printer](https://www.amazon.in/Wep-WeP-CSX450-Printer/dp/B00652BOQG) "WeP CSX-450 Setting new standards in compactness and speed 9 Pin 80 Column Dot Matrix Printer 450 cps" 
-2. 
+2. [Floor Cleaning Robot - iRobot](https://www.amazon.in/iRobot-Roomba-680-Vacuum-Cleaning/dp/B01IEEVDIQ) "3-Stage Cleaning System - The 3-Stage Cleaning System grabs dirt, dust, and debris from carpets and hard floors" 
