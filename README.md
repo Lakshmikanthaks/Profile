@@ -6,3 +6,5 @@
 4. High temperature and vacuum isolation processing mini environments - [TW202147501 A](https://worldwide.espacenet.com/publicationDetails/biblio?DB=EPODOC&II=3&ND=3&adjacent=true&locale=en_EP&FT=D&date=20211216&CC=TW&NR=202147501A&KC=A#)
 5. SUBSTRATE TRANSFER DEVICES - [WO2022051372 A1](https://worldwide.espacenet.com/publicationDetails/biblio?DB=EPODOC&II=4&ND=3&adjacent=true&locale=en_EP&FT=D&date=20220310&CC=WO&NR=2022051372A1&KC=A1#) 
 6. SEALING DEVICE FOR A PEDESTAL ASSEMBLY - [US2022076981 A1](https://worldwide.espacenet.com/publicationDetails/biblio?DB=EPODOC&II=5&ND=3&adjacent=true&locale=en_EP&FT=D&date=20220310&CC=US&NR=2022076981A1&KC=A1#) 
+7. Selectable-rate bottom purge apparatus and methods - [TW202030820 A](https://worldwide.espacenet.com/publicationDetails/biblio?DB=EPODOC&II=0&ND=3&adjacent=true&locale=en_EP&FT=D&date=20200816&CC=TW&NR=202030820A&KC=A#)
+8. METHOD AND SYSTEM FOR TILTING AN INFANT-CARE MEDICAL DEVICE - [BR112015013249 A2](https://worldwide.espacenet.com/publicationDetails/biblio?DB=EPODOC&II=1&ND=3&adjacent=true&locale=en_EP&FT=D&date=20170711&CC=BR&NR=112015013249A2&KC=A2#)
