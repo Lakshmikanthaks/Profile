@@ -13,7 +13,7 @@
 1. [WeP](https://wepdigital.com/) > [Dot Matrix Printer](https://www.amazon.in/Wep-WeP-CSX450-Printer/dp/B00652BOQG) "WeP CSX-450 Setting new standards in compactness and speed 9 Pin 80 Column Dot Matrix Printer 450 cps" 
 2. [iRobot](https://www.irobot.com/) > [Floor Cleaning Robot](https://www.amazon.in/iRobot-Roomba-680-Vacuum-Cleaning/dp/B01IEEVDIQ) "The 3-Stage Cleaning System grabs dirt, dust, and debris from carpets and hard floors" 
 3. [Schneider-Electric](https://www.se.com/in/en/) > LV Switch Design "[Hotel card switch](https://www.amazon.in/Schneider-Electric-Livia-Electronic-Card-Switch/dp/B08DS761KW) & [Two-way pull-cord switch](https://www.se.com/ae/en/product/MTN436600/twoway-pullcord-switch-insert-twoway/)"
-4. [Philips](https://www.philips.co.in/) > [Infant Warmer](https://www.designboom.com/project/philips-efficia-baby-warmer/) "Philips efficia baby warmer by Philips Design from India" > [Patent](https://worldwide.espacenet.com/publicationDetails/biblio?DB=EPODOC&II=1&ND=3&adjacent=true&locale=en_EP&FT=D&date=20170711&CC=BR&NR=112015013249A2&KC=A2#) #8 
+4. [Philips](https://www.philips.co.in/) > [Infant Warmer](https://www.designboom.com/project/philips-efficia-baby-warmer/) "Philips efficia baby warmer by Philips Design from India" > Patent #8 
 5. [Skanray](https://www.skanray.com) > [C-Arm](https://www.skanray.com/?q=content/skan-c) "X-Ray Medical Imaging Device"
 6. [The National Institute of Engineering](https://nie.ac.in/) > Associate Professor - M.Tech ["Industrial Automation & Robotics"](https://nie.ac.in/wp-content/uploads/2021/01/M-Tech-IAR-Syllabus-AY-2020-2022-Final-revised-converted-1.pdf) 
     1. Robotics for Industrial Automation 
