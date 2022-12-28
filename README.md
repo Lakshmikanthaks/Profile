@@ -19,5 +19,5 @@
     1. Robotics for Industrial Automation 
     2. Artificial Intelligence and Expert Systems in Automation 
     3. Product Design & Development
-7. [Applied Materials](https://www.appliedmaterials.com/) > Smart Wafer & Load Port > Patent #7 
+7. [Applied Materials](https://www.appliedmaterials.com/) > Smart Wafer & [Load Port](https://www.ebay.com/itm/304517552227) > Patent #7 
 8. [Applied Materials](https://www.appliedmaterials.com/) > [Semiconductor MDP](https://www.appliedmaterials.com/in/en/semiconductor/semiconductor-products.html) "Design of Physical Vapor Deposition (PVD) chamber components" > Patent #1-6   
