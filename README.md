@@ -2,3 +2,7 @@
 ## Patent Details
 1. TRANSFER APPARATUS AND SUBSTRATE-SUPPORTING MEMBER -  [US2022336248 A1](https://worldwide.espacenet.com/publicationDetails/biblio?DB=EPODOC&II=0&ND=3&adjacent=true&locale=en_EP&FT=D&date=20221020&CC=US&NR=2022336248A1&KC=A1#)
 2. An electrostatic chuck having a heating and chucking capabilities - [TW202224085 A](https://worldwide.espacenet.com/publicationDetails/biblio?DB=EPODOC&II=1&ND=3&adjacent=true&locale=en_EP&FT=D&date=20220616&CC=TW&NR=202224085A&KC=A#)
+3. Transfer chamber with integrated substrate pre-process chamber - [TW202207347 A](https://worldwide.espacenet.com/publicationDetails/biblio?DB=EPODOC&II=2&ND=3&adjacent=true&locale=en_EP&FT=D&date=20220216&CC=TW&NR=202207347A&KC=A#)
+4. High temperature and vacuum isolation processing mini environments - [TW202147501 A](https://worldwide.espacenet.com/publicationDetails/biblio?DB=EPODOC&II=3&ND=3&adjacent=true&locale=en_EP&FT=D&date=20211216&CC=TW&NR=202147501A&KC=A#)
+5. SUBSTRATE TRANSFER DEVICES - [WO2022051372 A1](https://worldwide.espacenet.com/publicationDetails/biblio?DB=EPODOC&II=4&ND=3&adjacent=true&locale=en_EP&FT=D&date=20220310&CC=WO&NR=2022051372A1&KC=A1#) 
+6. SEALING DEVICE FOR A PEDESTAL ASSEMBLY - [US2022076981 A1](https://worldwide.espacenet.com/publicationDetails/biblio?DB=EPODOC&II=5&ND=3&adjacent=true&locale=en_EP&FT=D&date=20220310&CC=US&NR=2022076981A1&KC=A1#) 
