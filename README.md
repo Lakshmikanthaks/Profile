@@ -10,5 +10,5 @@
 8. METHOD AND SYSTEM FOR TILTING AN INFANT-CARE MEDICAL DEVICE - [BR112015013249 A2](https://worldwide.espacenet.com/publicationDetails/biblio?DB=EPODOC&II=1&ND=3&adjacent=true&locale=en_EP&FT=D&date=20170711&CC=BR&NR=112015013249A2&KC=A2#)
 
 ## Product Details 
-1. [Dot Matrix Printer](https://www.amazon.in/Wep-WeP-CSX450-Printer/dp/B00652BOQG) "WeP CSX-450 Setting new standards in compactness and speed 9 Pin 80 Column Dot Matrix Printer 450 cps" 
-2. [Floor Cleaning Robot - iRobot](https://www.amazon.in/iRobot-Roomba-680-Vacuum-Cleaning/dp/B01IEEVDIQ) "3-Stage Cleaning System - The 3-Stage Cleaning System grabs dirt, dust, and debris from carpets and hard floors" 
+1. WeP [Dot Matrix Printer](https://www.amazon.in/Wep-WeP-CSX450-Printer/dp/B00652BOQG) "WeP CSX-450 Setting new standards in compactness and speed 9 Pin 80 Column Dot Matrix Printer 450 cps" 
+2. iRobot [Floor Cleaning Robot](https://www.amazon.in/iRobot-Roomba-680-Vacuum-Cleaning/dp/B01IEEVDIQ) "3-Stage Cleaning System - The 3-Stage Cleaning System grabs dirt, dust, and debris from carpets and hard floors" 
