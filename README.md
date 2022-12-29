@@ -37,3 +37,4 @@ Degree		    :  B.E in Mechanical Engineering
 College		    :  Ballari Institute of Technology & Management, Bellary, Karnataka 
 Graduated   	:  2002
 Project			:  Servo Valve Test Rig in Jindal Vijaynagar Steels Ltd. 
+
