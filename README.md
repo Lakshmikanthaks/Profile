@@ -25,16 +25,15 @@
 ## Education Qualification 
 
 Degree		    : Ph.D – Part time (Under progress) 
-College		    : The National Institute of Engineering, Mysore 570 008
-Year of Passing	: 2023 (Estimated) 
+College		    : The National Institute of Engineering, Mysore, Karnataka
 Area			: Asthma Drug Delivery Quantification & Decision Support System under Dr. N.V. Raghavendra & Dr. B.K. Sridhara
 
 Degree		    :  M. Tech. in Product Design & Manufacturing
-College		    :  The National Institute of Engineering, Mysore 570 008. 
-Year of Passing	:  2005 
+College		    :  The National Institute of Engineering, Mysore, Karnataka 
+Graduated   	:  2005 
 Project			:  Application of Conjoint Analysis in New Product Development under Dr. B.K.Sridhara
 
 Degree		    :  B.E in Mechanical Engineering
-College		    :  Ballari Institute of Technology & Management, Bellary 583 104. 
-Year of Passing	:  2002
+College		    :  Ballari Institute of Technology & Management, Bellary, Karnataka 
+Graduated   	:  2002
 Project			:  Servo Valve Test Rig in Jindal Vijaynagar Steels Ltd. under Late Ravishankar
