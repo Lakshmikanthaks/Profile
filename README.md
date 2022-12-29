@@ -31,9 +31,9 @@ Area			: Asthma Drug Delivery Quantification & Decision Support System under Dr.
 Degree		    :  M. Tech. in Product Design & Manufacturing
 College		    :  The National Institute of Engineering, Mysore, Karnataka 
 Graduated   	:  2005 
-Project			:  Application of Conjoint Analysis in New Product Development under Dr. B.K.Sridhara
+Project			:  Application of Conjoint Analysis in New Product Development.
 
 Degree		    :  B.E in Mechanical Engineering
 College		    :  Ballari Institute of Technology & Management, Bellary, Karnataka 
 Graduated   	:  2002
-Project			:  Servo Valve Test Rig in Jindal Vijaynagar Steels Ltd. under Late Ravishankar
+Project			:  Servo Valve Test Rig in Jindal Vijaynagar Steels Ltd. 
