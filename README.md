@@ -42,3 +42,88 @@ College		    :  Ballari Institute of Technology & Management, Bellary, Karnataka
 Graduated   	:  2002
 Project			:  Servo Valve Test Rig in Jindal Vijaynagar Steels Ltd. 
 
+
+
+Project Description
+Planning
+Concept Development
+System-Level
+Design
+Detail Design
+Prototyping and Testing
+Production Ramp-up
+Design & Development of Maglev based inline PVD System 
+Yes
+Yes
+Yes
+Under Progress
+ZFFT for EM-VHF PVD System
+Yes
+Yes
+Yes
+Yes
+Yes
+-
+Design & Development of Transfer chamber with integrated substrate processing PVD System 
+Yes
+Yes
+Yes
+Yes
+Yes
+-
+Design & Development of Smart Wafer 
+Yes
+Yes
+Yes
+Yes
+Yes
+-
+Design & Development of Gait Analysis Wearable Device 
+Yes
+Yes
+Yes
+Yes
+Yes
+-
+Design & Development of Infant Warmer 
+-
+Yes
+Yes
+Yes
+Yes
+Yes
+Cost reduction of Robot Wheel Bushing using DMAIC
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Design & Development of Dot-Matrix-Pinter 
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Design and Development of Hotel Card Switch 
+-
+Yes
+Yes
+Yes
+Yes
+-
+Optimization of Wall Follow Sensor 
+-
+Yes
+Yes
+Yes
+Yes
+-
+Design and Development of C-Arm 
+       -
+-
+Yes
+Yes
+Yes
+Yes
