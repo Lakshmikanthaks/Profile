@@ -62,6 +62,10 @@ Project			:  Servo Valve Test Rig in Jindal Vijaynagar Steels Ltd.
 
 ## Miscellaneous 
 1. Drug Deposition in Lungs - [1](https://studio.youtube.com/video/Td4NVXnNYnM/edit), [2](https://studio.youtube.com/video/F-73zHqavkk/edit)
-2. Human Activity Recognition  through Accelerometer Sensor Using Data Mining -[1](https://studio.youtube.com/video/tSDNVz2r8jQ/edit), [Paper Publication](http://www.ijraset.com/fileserve.php?FID=3084)
-3. NIE Smart Cradle - [1](https://studio.youtube.com/video/0zPPNozyPhI/edit)
-4. NIE Pollution Free Navigation Recommendation System - [1](https://studio.youtube.com/video/qUtXssaea8Y/edit), [Paper Publication](http://www.troindia.in/journal/ijcesr/vol3iss10/21-26.pdf)
+2. Human Activity Recognition  through Accelerometer Sensor Using Data Mining -[1](https://studio.youtube.com/video/tSDNVz2r8jQ/edit), [Paper Publication](http://www.ijraset.com/fileserve.php?FID=3084), [Github Code](https://github.com/Lakshmikanthaks/Activity-Recognition)
+3. NIE Smart Cradle - [1](https://studio.youtube.com/video/0zPPNozyPhI/edit), [Github Code](https://github.com/Lakshmikanthaks/Smart-Baby-Bed)
+4. NIE Pollution Free Navigation Recommendation System - [1](https://studio.youtube.com/video/qUtXssaea8Y/edit), [Paper Publication](http://www.troindia.in/journal/ijcesr/vol3iss10/21-26.pdf), [Github Code](https://github.com/Lakshmikanthaks/Gas-Concentration)
+5. NIE Cable Testing - [Github Code](https://github.com/Lakshmikanthaks/Cable_Testing)
+6. NIE Encloder RPM - [Github Code](https://github.com/Lakshmikanthaks/EncoderRPM)
+7. NIE Robotics Navigation - [Github Code](https://github.com/Lakshmikanthaks/Robotics-Navigation)
+8. NIE Tidal Measurement - [Github Code](https://github.com/Lakshmikanthaks/TidalVolumeMeasurement)
