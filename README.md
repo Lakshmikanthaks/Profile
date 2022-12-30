@@ -46,7 +46,6 @@ Project			:  Servo Valve Test Rig in Jindal Vijaynagar Steels Ltd.
 
 ## Core Competencies
     • New Product Design (Concept through manufacturing)
-    • Machine Learning 
     • Vacuum System Design 
     • Plasma / RF PVD Chamber Design 
     • Robust Design & Value Engineering 
@@ -59,3 +58,4 @@ Project			:  Servo Valve Test Rig in Jindal Vijaynagar Steels Ltd.
     • Mechanism design 
     • Biomedical Engineering
     • Computational Fluid Dynamics 
+    • Machine Learning
