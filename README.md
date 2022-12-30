@@ -69,3 +69,4 @@ Project			:  Servo Valve Test Rig in Jindal Vijaynagar Steels Ltd.
 6. NIE Encloder RPM - [Github Code](https://github.com/Lakshmikanthaks/EncoderRPM)
 7. NIE Robotics Navigation - [Github Code](https://github.com/Lakshmikanthaks/Robotics-Navigation)
 8. NIE Tidal Measurement - [Github Code](https://github.com/Lakshmikanthaks/TidalVolumeMeasurement)
+9. NIE Audio Capture - [Github Code](https://github.com/Lakshmikanthaks/audio-capture)
