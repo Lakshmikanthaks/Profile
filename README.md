@@ -59,3 +59,6 @@ Project			:  Servo Valve Test Rig in Jindal Vijaynagar Steels Ltd.
     • Biomedical Engineering
     • Computational Fluid Dynamics 
     • Machine Learning
+
+## Miscellaneous 
+        [Drug Deposition in Lungs](https://studio.youtube.com/video/Td4NVXnNYnM/edit) 
