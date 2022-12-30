@@ -46,19 +46,23 @@ Project			:  Servo Valve Test Rig in Jindal Vijaynagar Steels Ltd.
 
 ## Core Competencies
     • New Product Design (Concept through manufacturing)
+    • Machine Learning 
     • Vacuum System Design 
     • Plasma / RF PVD Chamber Design 
+    • Robotics 
     • Robust Design & Value Engineering 
     • Quality function deployment & Six Sigma 
     • Design for Manufacturing and Assembly 
     • Static Structural and Thermal analysis  
     • Plastic, turned, welded & sheet metal parts design 
     • Vendor interactions & packaging design 
-    • Optical design 
-    • Mechanism design 
+    • Optical System Design 
     • Biomedical Engineering
     • Computational Fluid Dynamics 
-    • Machine Learning
+    • Lead small design team 
+    • IoT Product Design – Sensing Application 
+    • Risk Analysis and Mitigation Planning 
+    • Structural, Thermal, Flow, RF, EM, Plasma Simulation 
 
 ## Miscellaneous 
 1. Drug Deposition in Lungs - [Youtube Link-1](https://studio.youtube.com/video/Td4NVXnNYnM/edit), [Youtube Link - 2](https://studio.youtube.com/video/F-73zHqavkk/edit)
