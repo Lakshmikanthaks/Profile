@@ -13,7 +13,7 @@ Over 18 years of experience in New Product Design & Development of Semiconductor
     1. Robotics for Industrial Automation 
     2. Artificial Intelligence and Expert Systems in Automation 
     3. Product Design & Development
-7. [Applied Materials](https://www.appliedmaterials.com/) > Smart Wafer & [Load Port](https://www.ebay.com/itm/304517552227) > Patent #7 
+7. [Applied Materials](https://www.appliedmaterials.com/) > [Smart Wafer](https://worldwide.espacenet.com/publicationDetails/biblio?DB=EPODOC&II=3&ND=3&adjacent=true&locale=en_EP&FT=D&date=20220401&CC=TW&NR=202212822A&KC=A#) & [Load Port](https://www.ebay.com/itm/304517552227) > Patent #7 
 8. [Applied Materials](https://www.appliedmaterials.com/) > [Semiconductor MDP](https://www.appliedmaterials.com/in/en/semiconductor/semiconductor-products.html) "Design of Physical Vapor Deposition (PVD) chamber components" > Patent #1-6   
 
 
