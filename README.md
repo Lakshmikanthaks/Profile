@@ -41,3 +41,19 @@ Degree		    :  B.E in Mechanical Engineering
 College		    :  Ballari Institute of Technology & Management, Bellary, Karnataka 
 Graduated   	:  2002
 Project			:  Servo Valve Test Rig in Jindal Vijaynagar Steels Ltd. 
+
+## Core Competencies
+    • New product design (Concept through manufacturing)
+    • Machine Learning 
+    • Vacuum System Design 
+    • Plasma / RF PVD Chamber Design 
+    • Robust Design & Value Engineering 
+    • Quality function deployment & Six Sigma 
+    • Design for Manufacturing and Assembly 
+    • Static Structural and Thermal analysis  
+    • Plastic, turned, welded & sheet metal parts design 
+    • Vendor interactions & packaging design 
+    • Optical design 
+    • Mechanism design 
+    • Biomedical Engineering
+    • Computational Fluid Dynamics 
