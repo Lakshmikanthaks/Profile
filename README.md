@@ -43,7 +43,7 @@ Graduated   	:  2002
 Project			:  Servo Valve Test Rig in Jindal Vijaynagar Steels Ltd. 
 
 ## Core Competencies
-    • New product design (Concept through manufacturing)
+    • New Product Design (Concept through manufacturing)
     • Machine Learning 
     • Vacuum System Design 
     • Plasma / RF PVD Chamber Design 
