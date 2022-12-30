@@ -1,4 +1,3 @@
-# Profile
 
 ## Summary
 Over 18 years of experience in New Product Design & Development of Semiconductor, Medical & Electro-Mechanical products from concept through manufacturing. Result driven and research oriented professionally accomplished in design & development of high-performance products under regulated environment. Specialized in Semiconductor Physical Vapor Deposition Technologies for BEOL. 
