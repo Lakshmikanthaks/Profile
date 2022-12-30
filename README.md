@@ -74,3 +74,6 @@ Project			:  Servo Valve Test Rig in Jindal Vijaynagar Steels Ltd.
 7. NIE Robotics Navigation - [Github Code](https://github.com/Lakshmikanthaks/Robotics-Navigation)
 8. NIE Tidal Measurement - [Github Code](https://github.com/Lakshmikanthaks/TidalVolumeMeasurement)
 9. NIE Audio Capture - [Github Code](https://github.com/Lakshmikanthaks/audio-capture)
+
+## Channel 
+1. [Linkedin](https://www.linkedin.com/in/lakshmikanth-shirahatti-78439714/)
