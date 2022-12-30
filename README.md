@@ -63,4 +63,5 @@ Project			:  Servo Valve Test Rig in Jindal Vijaynagar Steels Ltd.
 ## Miscellaneous 
 1. Drug Deposition in Lungs - [1](https://studio.youtube.com/video/Td4NVXnNYnM/edit), [2](https://studio.youtube.com/video/F-73zHqavkk/edit)
 2. Human Activity Recognition  through Accelerometer Sensor Using Data Mining -[1](https://studio.youtube.com/video/tSDNVz2r8jQ/edit), [2](http://www.ijraset.com/fileserve.php?FID=3084)
-3. 
+3. NIE Smart Cradle - [1](https://studio.youtube.com/video/0zPPNozyPhI/edit)
+4. NIE Pollution Free Navigation Recommendation System - [1](https://studio.youtube.com/video/qUtXssaea8Y/edit), [2](http://www.troindia.in/journal/ijcesr/vol3iss10/21-26.pdf)
