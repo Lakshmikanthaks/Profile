@@ -61,7 +61,7 @@ Project			:  Servo Valve Test Rig in Jindal Vijaynagar Steels Ltd.
     • Machine Learning
 
 ## Miscellaneous 
-1. Drug Deposition in Lungs - [Youtube Link](https://studio.youtube.com/video/Td4NVXnNYnM/edit), [2](https://studio.youtube.com/video/F-73zHqavkk/edit)
+1. Drug Deposition in Lungs - [Youtube Link-1](https://studio.youtube.com/video/Td4NVXnNYnM/edit), [Youtube Link - 2](https://studio.youtube.com/video/F-73zHqavkk/edit)
 2. Human Activity Recognition  through Accelerometer Sensor Using Data Mining -[Youtube Link](https://studio.youtube.com/video/tSDNVz2r8jQ/edit), [Paper Publication](http://www.ijraset.com/fileserve.php?FID=3084), [Github Code](https://github.com/Lakshmikanthaks/Activity-Recognition)
 3. NIE Smart Cradle - [Youtube Link](https://studio.youtube.com/video/0zPPNozyPhI/edit), [Github Code](https://github.com/Lakshmikanthaks/Smart-Baby-Bed)
 4. NIE Pollution Free Navigation Recommendation System - [Youtube Link](https://studio.youtube.com/video/qUtXssaea8Y/edit), [Paper Publication](http://www.troindia.in/journal/ijcesr/vol3iss10/21-26.pdf), [Github Code](https://github.com/Lakshmikanthaks/Gas-Concentration)
