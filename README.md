@@ -35,7 +35,7 @@ Area			: Asthma Drug Delivery Quantification & Decision Support System under Dr.
 Degree		    :  M. Tech. in Product Design & Manufacturing
 College		    :  The National Institute of Engineering, Mysore, Karnataka 
 Graduated   	:  2005 
-Project			:  Application of Conjoint Analysis in New Product Development.
+Project			:  [Application of Conjoint Analysis in New Product Development](https://scholar.google.com/citations?user=69y34zAAAAAJ&hl=en&scioq=+%0ALakshmikantha,+%0AK.S.+,+%0Aet+al.+(2005).%0A+%E2%80%98Application+of+conjoint+analysis+in+new+product+development%E2%80%99.%0AProceedings+of+the+National+Conference+on+Product+Development+with+Mechatronic+Systems+for+Global+Quality+(PMGQ+2005).%0A%0AMadurai,+%0A33-37+&safe=active&ssui=on)
 
 Degree		    :  B.E in Mechanical Engineering
 College		    :  Ballari Institute of Technology & Management, Bellary, Karnataka 
