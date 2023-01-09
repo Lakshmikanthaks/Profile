@@ -73,4 +73,4 @@ Project			:  Servo Valve Test Rig in Jindal Vijaynagar Steels Ltd.
 8. NIE Tidal Measurement - [Github Code](https://github.com/Lakshmikanthaks/TidalVolumeMeasurement)
 9. NIE Audio Capture - [Github Code](https://github.com/Lakshmikanthaks/audio-capture)
 
-[Linkedin](https://www.linkedin.com/in/lakshmikanth-shirahatti-78439714/)
+[Linkedin Link](https://www.linkedin.com/in/lakshmikanth-shirahatti-78439714/)
