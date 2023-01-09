@@ -4,7 +4,7 @@ Over 18 years of experience in New Product Design & Development of Semiconductor
 
 ## Product Portfolio
 1. [Applied Materials](https://www.appliedmaterials.com/) > [Semiconductor MDP](https://www.appliedmaterials.com/in/en/semiconductor/semiconductor-products.html) "Design of Physical Vapor Deposition (PVD) chamber components" > Patent #1-6 > Stay: Dec-2016 till date
-[Applied Materials](https://www.appliedmaterials.com/) > [Smart Wafer](https://worldwide.espacenet.com/publicationDetails/biblio?DB=EPODOC&II=3&ND=3&adjacent=true&locale=en_EP&FT=D&date=20220401&CC=TW&NR=202212822A&KC=A#) & [Load Port](https://www.ebay.com/itm/304517552227) > Patent #7
+> [Smart Wafer](https://worldwide.espacenet.com/publicationDetails/biblio?DB=EPODOC&II=3&ND=3&adjacent=true&locale=en_EP&FT=D&date=20220401&CC=TW&NR=202212822A&KC=A#) & [Load Port](https://www.ebay.com/itm/304517552227) > Patent #7
 2. [The National Institute of Engineering](https://nie.ac.in/) > Associate Professor - M.Tech ["Industrial Automation & Robotics"](https://nie.ac.in/wp-content/uploads/2021/01/M-Tech-IAR-Syllabus-AY-2020-2022-Final-revised-converted-1.pdf) > Stay: Feb-2014 to Dec-2016
     1. Robotics for Industrial Automation 
     2. Artificial Intelligence and Expert Systems in Automation 
