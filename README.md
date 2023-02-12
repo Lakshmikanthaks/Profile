@@ -1,6 +1,9 @@
 
+## Objective 
+A proven individual contributor in high performing multidisciplinary product development team delivering innovative solutions, I am seeking challenging opportunity to lead projects with my advanced skills, education, extensive training and many years of experience can be fully utilized. 
+
 ## Summary
-Over 18 years of experience in New Product Design & Development of Semiconductor, Medical & Electro-Mechanical products from concept through manufacturing. Result driven and research oriented professionally accomplished in design & development of high-performance products under regulated environment. Specialized in Semiconductor Physical Vapor Deposition Technologies for BEOL. 
+Over 18 years of experience in New Product Design & Development of Semiconductor, Medical & Electro-Mechanical products from concept through manufacturing. Result driven and research oriented professionally accomplished in design & development of high-performance products under regulated environment. 
 
 ## Product Portfolio
 1. [Applied Materials](https://www.appliedmaterials.com/) > [Semiconductor MDP](https://www.appliedmaterials.com/in/en/semiconductor/semiconductor-products.html) "Design of Physical Vapor Deposition (PVD) Platform & Chamber Hardware" > Patent #1-6 | [Smart Wafer](https://worldwide.espacenet.com/publicationDetails/biblio?DB=EPODOC&II=3&ND=3&adjacent=true&locale=en_EP&FT=D&date=20220401&CC=TW&NR=202212822A&KC=A#) & [Load Port](https://www.ebay.com/itm/304517552227) > Patent #7 > Stay: Dec-2016 till date 
