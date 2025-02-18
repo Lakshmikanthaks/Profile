@@ -14,7 +14,7 @@ Over 18 years of experience in New Product Design & Development of Semiconductor
 3. [Skanray](https://www.skanray.com) > [C-Arm](https://www.skanray.com/?q=content/skan-c) "X-Ray Medical Imaging Device" > Stay: Jan-2013 to Feb-2014
 4. [Philips](https://www.philips.co.in/) > [Infant Warmer](https://www.designboom.com/project/philips-efficia-baby-warmer/) "Philips efficia baby warmer by Philips Design from India" > Patent #8 > Stay: Aug-2010 to Jan-2013
 5. [Schneider-Electric](https://www.se.com/in/en/) > LV Switch Design "[Hotel card switch](https://www.amazon.in/Schneider-Electric-Livia-Electronic-Card-Switch/dp/B08DS761KW) & [Two-way pull-cord switch](https://www.se.com/ae/en/product/MTN436600/twoway-pullcord-switch-insert-twoway/)" > Stay: Aug-2009 to Aug-2010
-6. [iRobot](https://www.irobot.com/) > [Floor Cleaning Robot]([https://www.amazon.in/iRobot-Roomba-680-Vacuum-Cleaning/dp/B01IEEVDIQ](https://www.irobot.com/en_US/roomba.html)) "The 3-Stage Cleaning System grabs dirt, dust, and debris from carpets and hard floors" > Stay: Mar-2008 to July-2009 [Division Closed](https://iaccess.dnb.co.in/irobot-india-private-limited/company/u72200ka2005ptc037429)
+6. [iRobot](https://www.irobot.com/) > [Floor Cleaning Robot]([https://www.irobot.com/en_US/roomba.html]) "The 3-Stage Cleaning System grabs dirt, dust, and debris from carpets and hard floors" > Stay: Mar-2008 to July-2009 [Division Closed](https://iaccess.dnb.co.in/irobot-india-private-limited/company/u72200ka2005ptc037429)
 7. [WeP](https://wepdigital.com/) > [Dot Matrix Printer](https://www.amazon.in/Wep-WeP-CSX450-Printer/dp/B00652BOQG) "WeP CSX-450 Setting new standards in compactness and speed 9 Pin 80 Column Dot Matrix Printer 450 cps" > Stay: Aug-2005 to Feb-2008
 
 
