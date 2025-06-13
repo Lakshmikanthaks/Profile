@@ -1,9 +1,20 @@
 
-## Objective 
-A proven individual contributor in high performing multidisciplinary product development team delivering innovative solutions, I am seeking challenging opportunity to lead projects with my advanced skills, education, extensive training and many years of experience can be fully utilized. 
-
 ## Summary
-Over 18 years of experience in New Product Design & Development of Semiconductor, Medical & Electro-Mechanical products from concept through manufacturing. Result driven and research oriented professionally accomplished in design & development of high-performance products under regulated environment. 
+ngineering Manager with 18+ years of proven expertise in end-to-end new product design and development across semiconductor equipment, medical devices, and electro-mechanical systems. My journey is driven by innovation, simulation-led design, and cross-functional leadership — with several US and international patents granted in semiconductor process equipment and medical devices.
+
+At Applied Materials, I’ve led the development of next-gen PVD chambers and cluster tools, leveraging deep expertise in vacuum systems, plasma physics, electrostatics, and systems engineering. Previously, as an Associate Professor, I mentored students in product development, simulations, and IoT systems, reinforcing my passion for bridging academia and industry.
+
+I’ve delivered successful products through new product development roles at Philips (Infant Warmers), iRobot (Home Robotics), Schneider Electric (Power Control Devices), and Wipro/WeP (Electromechanical Systems), managing full product life cycles from concept to launch — always with a focus on innovation, reliability, and regulatory compliance at low cost.
+
+Looking ahead, I’m actively expanding my expertise in semiconductor device modeling — from process/device simulations to predictive modeling and digital twin applications.
+
+Key Strengths:
+
+Cross-domain R&D Leadership – Semiconductor, MedTech, IoT
+Patented Innovator – Electrostatic Chuck, Wafer Handling Systems
+Advanced Simulation – CFD, RF, Thermal, Structural, Plasma
+Product Life Cycle Execution – Concept to Ramp
+Strong Collaborator – Global, Multidisciplinary Teams 
 
 ## Product Portfolio
 1. [Applied Materials](https://www.appliedmaterials.com/) > [Semiconductor MDP](https://www.appliedmaterials.com/in/en/semiconductor/semiconductor-products.html) "Design of Physical Vapor Deposition (PVD) Platform & Chamber Hardware" > Patent #1-6 | [Smart Wafer](https://worldwide.espacenet.com/publicationDetails/biblio?DB=EPODOC&II=3&ND=3&adjacent=true&locale=en_EP&FT=D&date=20220401&CC=TW&NR=202212822A&KC=A#) & [Load Port] > Patent #7 > Stay: Dec-2016 till date 
