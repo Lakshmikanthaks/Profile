@@ -1,6 +1,6 @@
 
 ## Summary
-ngineering Manager with 18+ years of proven expertise in end-to-end new product design and development across semiconductor equipment, medical devices, and electro-mechanical systems. My journey is driven by innovation, simulation-led design, and cross-functional leadership — with several US and international patents granted in semiconductor process equipment and medical devices.
+Engineering Manager with 18+ years of proven expertise in end-to-end new product design and development across semiconductor equipment, medical devices, and electro-mechanical systems. My journey is driven by innovation, simulation-led design, and cross-functional leadership — with several US and international patents granted in semiconductor process equipment and medical devices.
 
 At Applied Materials, I’ve led the development of next-gen PVD chambers and cluster tools, leveraging deep expertise in vacuum systems, plasma physics, electrostatics, and systems engineering. Previously, as an Associate Professor, I mentored students in product development, simulations, and IoT systems, reinforcing my passion for bridging academia and industry.
 
